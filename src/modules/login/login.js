@@ -2,12 +2,6 @@
 let elform = document.querySelector(".dark__form")
 
 
-let userdata = localStorage.getItem("userdata")
-
-// if(userdata){
-//     location.pathname = "/src/modules/home/index.html"
-// }
-
 let elinp = document.querySelector(".dark__inp")
 let elinpPassword = document.querySelector(".dark__password")
 if(elform){
