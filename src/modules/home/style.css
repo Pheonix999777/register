@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Inter';
+}
+
+.header__div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header__container{
+    max-width: 1380px;
+    margin: 0 auto;
+    padding: 24px 32px;
+}
+
+.header__btn{
+    color: #1C1C1C;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px; 
+    padding: 8px 12px;
+    border: none;
+    background: none;
+}
+
+.header__text{
+    border: none;
+    background: none;
+    margin-left: 8px;
+}
+
+.header__text-spn{
+    color: #FFF;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 20px; 
+    display: inline-flex;
+    align-items: center;
+    padding: 6px 7px;
+    border-radius: 256px;
+    background: #1C1C1C;
+}
+
+.container{
+    padding: 80px 156px;
+    margin: 0 auto;
+    max-width: 1180px;
+}
+
+.ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.ul__li:not(:last-child){
+    margin-bottom: 32px;
+}
+
+.ul__div{
+    display: flex;
+}
+
+.ul__wrapper{
+    padding: 20px;
+}
+
+.ul__wrapper-spn{
+    color: #969696;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px; 
+    letter-spacing: 0.56px;
+    text-transform: uppercase;
+}
+
+.ul__title{
+    color: #1C1C1C;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 32px; 
+    margin-top: 24px;
+}
+
+.ul__body{
+    overflow: hidden;
+    width: 680px;
+    color: #585757;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px; 
+    margin-top: 16px;
+}
+
+.ul__flex{
+    display: flex;
+    align-items: center;
+    margin-top: 48px;
+}
+
+.ul__flex-text{
+    color: #1C1C1C;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px; 
+}
+
+.ul__word{
+    display: inline-flex;
+    margin-left: auto;
+  
+}
+
+.ul__word-wiews{
+    color: #969696;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+}
