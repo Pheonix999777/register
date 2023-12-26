@@ -44,7 +44,7 @@ app.post('/register', (req, res) => {
 // Use JSON Server router for other routes
 app.use(router);
 
-const PORT = process.env.PORT || 7777;
+const PORT = process.env.PORT || 8080;
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });

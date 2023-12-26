@@ -8,7 +8,7 @@ form.addEventListener("submit", (e)=>{
     let postinpValue = postinp.value.trim() 
     let postinp2Value = postinp2.value.trim()  
     if(postinpValue || postinp2Value){
-        fetch("http://localhost:7777/popular-posts", {
+        fetch("http://localhost:8080/posts", {
             method: "POST",
             body: JSON.stringify({
                     title: postinpValue,
