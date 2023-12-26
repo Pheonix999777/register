@@ -277,6 +277,58 @@
         "surname": "Wilson"
       },
       "id": 15
+    },
+    {
+      "title": "ddd",
+      "body": "sadsa",
+      "created_at": "2023-09-16T09:30:15.874Z",
+      "views": 589,
+      "image": "https://picsum.photos/360/300/?random=8",
+      "user": {
+        "img": "https://picsum.photos/360/300/?random=141",
+        "name": "Sophia",
+        "surname": "Wilson"
+      },
+      "id": 16
+    },
+    {
+      "title": "daddadada",
+      "body": "awawawe",
+      "created_at": "2023-09-16T09:30:15.874Z",
+      "views": 589,
+      "image": "https://picsum.photos/360/300/?random=8",
+      "user": {
+        "img": "https://picsum.photos/360/300/?random=141",
+        "name": "Sophia",
+        "surname": "Wilson"
+      },
+      "id": 17
+    },
+    {
+      "title": "dd",
+      "body": "dd",
+      "created_at": "2023-09-16T09:30:15.874Z",
+      "views": 589,
+      "image": "https://picsum.photos/360/300/?random=8",
+      "user": {
+        "img": "https://picsum.photos/360/300/?random=141",
+        "name": "Sophia",
+        "surname": "Wilson"
+      },
+      "id": 18
+    },
+    {
+      "title": "aaaaa",
+      "body": "aaaaa",
+      "created_at": "2023-09-16T09:30:15.874Z",
+      "views": 589,
+      "image": "https://picsum.photos/360/300/?random=8",
+      "user": {
+        "img": "https://picsum.photos/360/300/?random=141",
+        "name": "Sophia",
+        "surname": "Wilson"
+      },
+      "id": 19
     }
   ],
   "users": [
@@ -596,6 +648,96 @@
       "phone": "1-477-935-8478 x6430",
       "image": "https://picsum.photos/360/300/?random=6",
       "id": 1694252668603
+    },
+    {
+      "username": "Usmon",
+      "password": "111",
+      "name": "Usmon",
+      "email": "eve.holt@reqres.in",
+      "phone": "1-477-935-8478 x6430",
+      "image": "https://picsum.photos/360/300/?random=6",
+      "id": 1694252668604
+    },
+    {
+      "username": "Usmon",
+      "password": "222",
+      "name": "Usmon",
+      "email": "umarxoja969@gmail.com",
+      "phone": "1-477-935-8478 x6430",
+      "image": "https://picsum.photos/360/300/?random=6",
+      "id": 1694252668605
+    },
+    {
+      "username": "Usmontttt",
+      "password": "111",
+      "name": "Usmontttt",
+      "email": "pheonix969@gmail.com",
+      "phone": "1-477-935-8478 x6430",
+      "image": "https://picsum.photos/360/300/?random=6",
+      "id": 1694252668606
+    },
+    {
+      "username": "Usmontttt",
+      "password": "111",
+      "name": "Usmon",
+      "email": "umarxoja969@gmail.com",
+      "phone": "1-477-935-8478 x6430",
+      "image": "https://picsum.photos/360/300/?random=6",
+      "id": 1694252668607
+    },
+    {
+      "username": "Usmon",
+      "password": "222",
+      "name": "Usmon",
+      "email": "umarxoja969@gmail.com",
+      "phone": "1-477-935-8478 x6430",
+      "image": "https://picsum.photos/360/300/?random=6",
+      "id": 1694252668608
+    },
+    {
+      "username": "Usmon",
+      "password": "222",
+      "name": "Usmon",
+      "email": "umarxoja969@gmail.com",
+      "phone": "1-477-935-8478 x6430",
+      "image": "https://picsum.photos/360/300/?random=6",
+      "id": 1694252668609
+    },
+    {
+      "username": "Usmon",
+      "password": "222",
+      "name": "Asadbek",
+      "email": "eve.holt@reqres.in",
+      "phone": "1-477-935-8478 x6430",
+      "image": "https://picsum.photos/360/300/?random=6",
+      "id": 1694252668610
+    },
+    {
+      "username": "Usmon",
+      "password": "222",
+      "name": "Usmonssdsss",
+      "email": "hrhgfh@gmail.com",
+      "phone": "1-477-935-8478 x6430",
+      "image": "https://picsum.photos/360/300/?random=6",
+      "id": 1694252668611
+    },
+    {
+      "username": "Usmon",
+      "password": "222",
+      "name": "Usmon",
+      "email": "usmonjon969@gmail.com",
+      "phone": "1-477-935-8478 x6430",
+      "image": "https://picsum.photos/360/300/?random=6",
+      "id": 1694252668612
+    },
+    {
+      "username": "Usmonssdsss",
+      "password": "555",
+      "name": "Usmonssdsss",
+      "email": "hrhgfh@gmail.com",
+      "phone": "1-477-935-8478 x6430",
+      "image": "https://picsum.photos/360/300/?random=6",
+      "id": 1694252668613
     }
   ],
   "avatars": [

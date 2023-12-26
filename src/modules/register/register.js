@@ -39,8 +39,8 @@ if(elform){
             }
        
         }).then((data)=>{
-            localStorage.setItem("userdata", JSON.stringify(data))
             location.pathname = "/src/modules/login/index.html"
+            localStorage.setItem("userdata", JSON.stringify(data))
 
         }).catch((error)=>{
 
